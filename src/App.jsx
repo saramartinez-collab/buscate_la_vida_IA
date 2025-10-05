@@ -110,7 +110,7 @@ export default function BestialHome() {
               Profesión, salud y vida real potenciadas por IA
             </h1>
             <p className="mb-8 max-w-xl text-neutral-700 text-lg font-light leading-relaxed">
-              Bestial no es solo una palabra, es la chispa que sientes cuando la IA se convierte en tu aliada. <br />
+              Bestial es lo que sientes cuando la IA se convierte en tu aliada. <br />
               Domina su poder, rompe límites y descubre hasta dónde puedes llegar en todas las facetas de tu vida.
             </p>
             <div className="flex flex-wrap gap-3">
@@ -126,13 +126,12 @@ export default function BestialHome() {
           </motion.div>
 
           <motion.div initial={{ opacity: 0, scale: 0.98 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.7 }} className="relative">
-            <div className="aspect-[4/3] w-full rounded-2xl border border-neutral-200 bg-white shadow-sm">
-              <div className="flex h-full w-full items-center justify-center rounded-2xl bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-neutral-100 via-white to-neutral-100">
-                <div className="text-center">
-                  <p className="text-sm text-neutral-500 font-light">(Espacio para imagen/clip hero)</p>
-                  <p className="text-xs text-neutral-400 font-light">Tu retrato + textura IA sutil</p>
-                </div>
-              </div>
+            <div className="aspect-[4/3] w-full rounded-2xl overflow-hidden border border-neutral-200 shadow-sm">
+              <img
+                src="/SARA MARTINEZ FOTO.jpeg"
+                alt="Sara Martínez - Bestial.me"
+                className="h-full w-full object-cover object-center transition-transform duration-700 hover:scale-105"
+              />
             </div>
           </motion.div>
         </div>
