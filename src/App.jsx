@@ -163,7 +163,7 @@ export default function BestialHome() {
       <Section
         id="salud"
         eyebrow="Salud"
-        title="Menopausia, 20 kg menos y una cabeza más ligera"
+        title="Mayores de 45, 20 kg menos y de vuelta a estar en forma!"
         desc="IA + ciencia + sentido común. Lo que funcionó de verdad para recuperar energía, foco y bienestar. Sin gurús ni filtros."
         cta={<CTAButton href="#historia">Lee mi historia</CTAButton>}
         secondaryCta={<CTAButton href="#comunidad" variant="secondary">Únete a la comunidad</CTAButton>}
