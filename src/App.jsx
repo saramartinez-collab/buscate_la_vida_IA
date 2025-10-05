@@ -110,8 +110,8 @@ export default function BestialHome() {
               Profesión, salud y vida real potenciadas por IA
             </h1>
             <p className="mb-8 max-w-xl text-neutral-700 text-lg font-light leading-relaxed">
-              Bestial es lo que sientes cuando la IA se convierte en tu aliada. <br />
-              Domina su poder, rompe límites y descubre hasta dónde puedes llegar en todas las facetas de tu vida.
+              Bestial.me te acompaña a integrar la IA en tu desarrollo profesional, tu bienestar y tu vida diaria. <br />
+              Eleva tus decisiones, amplifica tus capacidades y descubre una nueva forma de liderar: con inteligencia aumentada.
             </p>
             <div className="flex flex-wrap gap-3">
               <CTAButton href="#agenda">Activa tu cambio</CTAButton>
