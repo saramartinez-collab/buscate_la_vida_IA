@@ -130,7 +130,7 @@ export default function BestialHome() {
               <img
                 src="/SARA MARTINEZ FOTO.jpeg"
                 alt="Sara Martínez - Bestial.me"
-                className="h-full w-full object-cover object-center transition-transform duration-700 hover:scale-105"
+                className="h-full w-full object-contain object-top transition-transform duration-700 hover:scale-105 bg-white"
               />
             </div>
           </motion.div>
