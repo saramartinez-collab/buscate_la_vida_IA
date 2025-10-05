@@ -270,7 +270,7 @@ export default function BestialHome() {
       <Section
         id="sobre-mi"
         eyebrow="Quién soy"
-        title="Soy Sara Martínez: CEO Bentónico, Cirujana, CSO Hospittales y humana curiosa"
+        title="Soy Sara Martínez: CEO Bentónico, Cirujana, CSO Hospitales y humana curiosa"
         desc="Uso la IA como espejo: no para no pensar sino para pensar mejor."
         cta={<CTAButton href="#contacto">Colaboremos</CTAButton>}
         secondaryCta={<CTAButton href="#agenda" variant="secondary">Agenda una sesión</CTAButton>}
